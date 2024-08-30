@@ -1,0 +1,23 @@
+.text {
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  margin-right: 5px;
+}
+
+.deleteButton {
+  background-color: #fff;
+  padding: 4px;
+  border: 0;
+  border: 1px solid #b0bec5;
+  border-radius: 6px;
+  transition: all 0.5s;
+}
+
+.deleteButton:hover {
+  cursor: pointer;
+  background-color: #c62828;
+  color: #fff;
+}

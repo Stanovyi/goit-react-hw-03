@@ -1,0 +1,15 @@
+.searchContainer {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.SearchField {
+  /* padding: 5px 40px 5px 15px; */
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  background-color: #fff;
+  border-radius: 4px;
+  padding: 5px;
+}
